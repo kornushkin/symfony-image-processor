@@ -1,13 +1,19 @@
 {
   "name": "kornushkin/symfony-image-processor",
   "description": "Symfony2 image processor bundle.",
-  "version": "1.0.0",
   "type": "symfony-bundle",
   "license": "MIT",
   "require": {
     "php": "^5.3.3"
   },
   "autoload": {
-    "psr-4": { "Kornushkin\\Bundle\\": "" }
+    "psr-4": {
+      "Kornushkin\\Bundle\\": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
   }
 }
