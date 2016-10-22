@@ -11,7 +11,7 @@
       "Kornushkin\\Bundle\\": ""
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "extra": {
     "branch-alias": {
       "dev-master": "v1.0-dev"
