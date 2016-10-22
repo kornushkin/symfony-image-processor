@@ -1,7 +1,7 @@
 {
   "name": "kornushkin/symfony-image-processor",
   "description": "Symfony2 image processor bundle.",
-  "minimum-stability": "stable",
+  "version": "1.0.0",
   "type": "symfony-bundle",
   "license": "MIT",
   "require": {
