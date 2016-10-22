@@ -1,0 +1,4 @@
+services:
+    kornushkin.image_processor:
+        class: Kornushkin\Bundle\ImageProcessorBundle\ImageProcessor\ImageProcessor
+        arguments: ["@filesystem", "@translator", "%image_types%"]
